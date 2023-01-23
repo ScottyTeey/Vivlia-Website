@@ -1,2 +1,2 @@
 # Vivlia-Website
-Improvement of the existing web page. developed by Lebogang
+Enhancing the existing web page. developed by Lebogang
